@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Fredoka+One&display=swap");
+.weatherWidget {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  margin: 0px 5px 5px 5px;
+  background-image: url("../../images/Weather_widget.jpg");
+}
+
+.weatherData {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  font-size: 25px;
+}
+
+.prop_value {
+  margin: 0px;
+  font-family: "Fredoka One";
+  color: #0275d8;
+  font-size: 30px;
+}
+.spacing {
+  margin: 0px;
+}
+.prop_name {
+  margin: 0px;
+  font-family: "Fredoka One";
+  font-size: 25px;
+}
+
+.weatherData {
+  text-align: center;
+}

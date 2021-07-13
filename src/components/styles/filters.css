@@ -1,0 +1,15 @@
+.filterName {
+  font-size: 20px;
+  color: white;
+}
+
+.SearchLanguage,
+.SearchBox,
+.SearchCountry {
+  text-align: center;
+}
+
+.SearchButton {
+  text-align: center;
+  margin-top: 15px;
+}
